@@ -43,12 +43,6 @@ To create an interactive textile-based system that showcases the potential of **
 
 ---
 
-## 📷 Media
-
-Upload your project images or videos here or link to a YouTube demo.
-
----
-
 ## 🔄 Future Scope
 
 - Expand to full garments with multiple touch triggers.
